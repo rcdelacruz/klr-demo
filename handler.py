@@ -1,7 +1,6 @@
 import json
 import datetime
 
-
 def endpoint(event, context):
     current_time = datetime.datetime.now().time()
     body = {

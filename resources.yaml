@@ -9,7 +9,7 @@ spec:
   - name: revision
     value: master
   - name: url
-    value: https://github.com/sebgoa/klr-demo
+    value: https://github.com/rcdelacruz/klr-demo
 ---
 apiVersion: tekton.dev/v1alpha1
 kind: Task
